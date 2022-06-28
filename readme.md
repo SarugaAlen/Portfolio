@@ -2,6 +2,8 @@
 
 # nekaj sem popravo :)
 
-#zdaj sem na gitgubu spremeno 
+# zdaj sem na gitgubu spremeno
 
-#se en popravek
+# se en popravek
+
+# to je za brench
